@@ -12,3 +12,6 @@ Introdução ao Java e IntelliJ com Exercício ministrados pela professora Ayla 
 ## Repositório do GitHub
 
     https://github.com/Ianc7l/InTest-2026-lp.2.git
+
+
+## Testingg
