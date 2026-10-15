@@ -8,7 +8,7 @@ Introdução ao Java e IntelliJ com Exercício ministrados pela professora Ayla 
 ## Funcionalidades
 - Exercícios 
 - Práticas com Java e Introdução à IDE
-
+  
 ## Repositório do GitHub
 
     https://github.com/Ianc7l/InTest-2026-lp.2.git
