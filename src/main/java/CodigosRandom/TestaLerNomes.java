@@ -1,3 +1,5 @@
+package CodigosRandom;
+
 import javax.swing.JOptionPane;
 
 public class TestaLerNomes {

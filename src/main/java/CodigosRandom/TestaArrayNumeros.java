@@ -1,3 +1,5 @@
+package CodigosRandom;
+
 import java.util.Scanner;
 
 public class TestaArrayNumeros {
